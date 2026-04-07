@@ -26,7 +26,20 @@ Os exercícios abordam problemas do dia a dia, utilizando operações matemátic
 
 ## 📷 Preview
 
-(Execução via terminal)
+-----  
+<img width="424" height="130" alt="image" src="https://github.com/user-attachments/assets/db983b18-f310-460f-8f0a-8dbdb1c085b1" />
+
+-----  
+<img width="424" height="130" alt="image" src="https://github.com/user-attachments/assets/997cd8f5-c8a1-495d-a63c-87f71e99ba95" />
+
+-----  
+<img width="424" height="130" alt="image" src="https://github.com/user-attachments/assets/5e0616c3-b135-4442-9803-9a8c91cae143" />
+
+-----  
+<img width="424" height="130" alt="image" src="https://github.com/user-attachments/assets/e0564e5d-8e82-4751-8f14-eb532d3a4884" />
+
+-----  
+<img width="424" height="130" alt="image" src="https://github.com/user-attachments/assets/a8288c78-bd6e-47ae-a179-b16edf930b73" />
 
 ## 💻 Como executar
 
