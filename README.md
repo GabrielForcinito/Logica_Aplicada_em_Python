@@ -30,11 +30,9 @@ Os exercícios abordam problemas do dia a dia, utilizando operações matemátic
 
 ## 💻 Como executar
 
-Certifique-se de ter o Python instalado
-
-Execute o arquivo desejado:
-
-python nome_do_arquivo.py
+1. Certifique-se de ter o Python instalado
+2. Baixe a pasta anexada
+3. Abra a pasta com Vscode e execute os códigos desejados
 
 ## 📚 Aprendizado
 
