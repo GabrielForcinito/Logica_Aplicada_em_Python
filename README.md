@@ -56,13 +56,6 @@ Os exercícios abordam problemas do dia a dia, utilizando operações matemátic
 * Entrada e saída de dados
 * Estruturação de algoritmos
 
-## 🚀 Melhorias futuras
-
-* Criar um menu interativo
-* Implementar tratamento de erros
-* Melhorar organização dos arquivos
-* Evoluir para aplicações mais completas
-
 ## 👨‍💻 Autor
 
 Gabriel Forcinito
