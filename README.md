@@ -41,6 +41,8 @@ Os exercícios abordam problemas do dia a dia, utilizando operações matemátic
 -----  
 <img width="424" height="130" alt="image" src="https://github.com/user-attachments/assets/a8288c78-bd6e-47ae-a179-b16edf930b73" />
 
+-----
+
 ## 💻 Como executar
 
 1. Certifique-se de ter o Python instalado
